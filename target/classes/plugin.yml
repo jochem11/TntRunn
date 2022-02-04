@@ -1,0 +1,9 @@
+name: Tnt
+version: '1.0-SNAPSHOT'
+main: tnt.tnt.Tnt
+api-version: 1.17
+commands:
+  tnt:
+    description: toggles tnt
+  reset:
+    description: resets the block
